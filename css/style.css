@@ -1,0 +1,182 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    text-transform: uppercase;
+}
+
+/*header part start*/
+
+.header-part{
+    background-color: black;
+}
+.custom-header{
+    padding: 10px 0;
+}
+.toggole-custom{
+    color: #fff;
+}
+.for-color ul li a{
+    color: #fff;
+    text-transform: uppercase;
+}
+.for-color ul li a i{
+    margin-left: auto;
+}
+
+/*header part end*/
+
+/*banner part start*/
+
+.banner-part{
+    background-image: url(../image/banner.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.custom-banner{
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+.banner h1{
+    color: #fff;
+    font-size: 80px;
+}
+.btn-custom{
+    background-color: black;
+    color: #fff;
+    padding: 10px 30px;
+    border: none;
+    float: right;
+    margin-top: 40px;
+    margin-right: 65px;
+}
+
+/*banner part end*/
+
+
+/*carousel part start*/
+.slider{
+    padding: 100px 0;
+    min-height: 100vh;
+    background-color: ghostwhite;
+}
+.slider h1{
+    font-weight: 800;
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+.slider i{
+    font-size: 50px;
+    font-weight: 600;
+    padding-bottom: 100px;
+    padding-top: 50px;
+}
+.slider h3{
+    padding-top: 80px;
+}
+/*carousel part end*/
+
+/*second-banner part start*/
+.second-banner{
+    min-height: 100vh;
+    background-image: url(../image/banner-2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.custom-banner-two{
+    height: 100vh;
+    align-items: center;
+}
+.second-banner h1{
+    color: #fff;
+    font-weight: 800;
+    margin-bottom: 70px;
+}
+.second-banner h6{
+    color: #fff;
+    line-height: 2;
+}
+
+.item-part{
+    padding: 100px 0;
+}
+.item-part h1{
+    font-size: 50px;
+    font-weight: 800;
+    padding-bottom: 20px;
+}
+.item-part i{
+    font-size: 40px;
+    padding-bottom: 100px;  
+}
+.item-part h6{
+   text-align: start;
+   padding-top: 20px;
+   line-height: 1.5;
+}
+.item-part img{
+    width: 100%;
+}
+
+
+.footer-part{
+    min-height: 400px;
+    background-color: black;
+    padding-top: 50px;
+}
+.footer-part h4{
+    color: #fff;
+    text-transform: uppercase;
+}
+.footer-part h6{
+    color: #fff;
+    padding-top: 40px;
+}
+.footer-part ul{
+    list-style: none;
+}
+.footer-part ul li{
+    text-decoration: none;
+    line-height: 2;
+}
+.footer-part ul li a{
+    color: #fff;
+}
+.footer-part ul i{
+    color: #fff;
+    padding: 10px;
+}
+form{
+    padding-top: 10px;
+}
+.footer-h{
+    margin-top: 40px;
+}
+.right{
+    float: right;
+}
+/*second-banner part end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
